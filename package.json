@@ -1,0 +1,19 @@
+{
+  "name": "myangularjs",
+  "version": "1.0.0",
+  "description": "this is my first angularjs file",
+  "main": "index.js",
+  "scripts": {
+    "test": "Kenr1ck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenrickhatton/MyAngulaar.git"
+  },
+  "author": "Mr K Hatton",
+  "license": "UNLICENCED",
+  "bugs": {
+    "url": "https://github.com/kenrickhatton/MyAngulaar/issues"
+  },
+  "homepage": "https://github.com/kenrickhatton/MyAngulaar#readme"
+}
